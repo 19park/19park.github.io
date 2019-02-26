@@ -11,7 +11,7 @@ related: true
 ![배찌 이미지](/assets/images/20190226/baezzi.gif "배찌")
 
 # numberKeypad
-## *https://github.com/19park/numberKeypad*
+## *[https://github.com/19park/numberKeypad](https://github.com/19park/numberKeypad){:target="_blank"}*
 jQuery기반 숫자 혹은 문자를 모바일(핸드폰) 자판처럼 구현.
 
 - 부트스트랩 4기반. (flex display 사용)

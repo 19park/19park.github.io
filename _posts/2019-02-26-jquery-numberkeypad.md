@@ -18,7 +18,7 @@ jQuery기반 숫자 혹은 문자를 모바일(핸드폰) 자판처럼 구현.
 - 프로젝트 중에 키패드형식 컴포넌트를 만들일이있어서 간단히 구현하였습니다.
 - 다중 input 가능한 형태이며, resize & 모바일 사이즈 반응.
 
-[데모보기](https://vibrant-northcutt-d99c0f.netlify.com/demo.html)
+[데모보기](https://vibrant-northcutt-d99c0f.netlify.com/demo.html){:target="_blank"}
 
 
 Usage
